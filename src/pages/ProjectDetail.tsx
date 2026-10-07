@@ -965,7 +965,7 @@ function ProjectDetail() {
 
             <div className="projects-stack">
 
-              {project.projects?.map(([name, link]) => (
+              {("projects" in project ? project.projects : []).map(([name, link]) => (
 
                 <a
                   key={name}
