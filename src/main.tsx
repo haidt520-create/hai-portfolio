@@ -806,7 +806,7 @@ function App() {
             <div className="contact-links">
               <a href="mailto:haidt520@gmail.com"><Mail size={18} /> Email</a>
               <a href="https://www.linkedin.com/in/hai-dinh-27a31a357/" target="_blank"><Linkedin size={18} /> LinkedIn</a>
-              <a href="https://github.com/haidt520-create" target="_blank"><Github size={18} /> GitHub</a>
+              <a href="https://github.com/haidt520-create/hai-portfolio" target="_blank"><Github size={18} /> GitHub</a>
             </div>
           </div>
         </section>
